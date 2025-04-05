@@ -10,9 +10,9 @@
 
 ---
 
-- 🌱 Currently working on **Full Stack Web Development Projects**
-- 💡 Open to brainstorming **project ideas, tools, and collaboration**
-- 🧠 Love discussing **MERN Stack, Data Structures & Algorithms**
+- 🌱 Currently working on **Full Stack Web Development Projects**  
+- 💡 Open to brainstorming **project ideas, tools, and collaboration**  
+- 🧠 Love discussing **MERN Stack, Data Structures & Algorithms**  
 - 📫 Reach me at: **shubhamgupta57019@gmail.com**
 
 ---
@@ -49,9 +49,21 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-tracko&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Tracko&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tracko&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Mr-Tracko&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Tracko&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
