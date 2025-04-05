@@ -49,19 +49,12 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Tracko&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-tracko&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Mr-Tracko&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Tracko&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tracko&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 
 
